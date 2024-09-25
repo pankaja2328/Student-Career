@@ -35,3 +35,4 @@ This project is a web-based application designed to manage and track student car
 - **Ports**: Ensure that the default ports (80 for Apache, 3306 for MySQL) are not being used by other applications.
 - **PHP Errors**: If you encounter PHP-related errors, ensure your PHP configuration is correct by checking the `php.ini` file within the XAMPP directory.
 - **Database Connection**: If there are issues connecting to the database, verify the `config.php` file for the correct database credentials (username, password, database name).
+...................................
